@@ -8,6 +8,7 @@ I am a passionate IT student at Xavier Ateneo College, driven by a curiosity for
 - 🌱 I’m currently learning Full Stack Web Development and API creation.
 - 💬 Ask me about ...
 - 📫 How to reach me: <20230028755@my.xu.edu.ph>
+- 😄 **Fun fact:** I can stay focused coding for hours as long as I have coffee ☕!
 
 ## 💻 Tech Stack
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,git,github,vscode)](https://skillicons.dev)
